@@ -24,8 +24,8 @@ This project implements a deep learning-based segmentation pipeline for identify
 ---
 
 ## 📈 Training & Validation Loss
+![output](https://github.com/user-attachments/assets/796b293a-8cc9-437f-bfe9-5c32a4a14c3c)
 
-![Loss Curve](![output](https://github.com/user-attachments/assets/dea1dfca-8c3e-426a-92be-18e44cf21665))
 
 
 Both training and validation loss decrease over time, indicating a reasonable level of convergence without signs of severe overfitting.
